@@ -1,0 +1,37 @@
+🎨 FIGMA MOCKUP LINK - Portfólio Denner Design
+
+📌 INSTRUÇÕES PARA ACESSAR:
+
+1. Abra Figma.com
+2. Crie novo arquivo ou use existing
+3. Siga a especificação em: docs/design/figma-mockup-specs.md
+
+---
+
+📊 ARQUIVO FIGMA:
+Nome: "Portfólio Denner Design - Landing Page MVP"
+
+Frames necessários:
+- Desktop 1440px (Hero + Grid + About + Contact + Footer)
+- Mobile 375px (Responsive de todas as seções)
+
+---
+
+✅ STATUS:
+Especificação técnica completa em docs/design/figma-mockup-specs.md
+Aguardando criação do arquivo Figma com link de compartilhamento.
+
+---
+
+🔗 PRÓXIMO PASSO:
+Após criar no Figma, copie o link compartilhado e atualize este arquivo:
+
+Exemplo:
+https://www.figma.com/file/abc123xyz/Portfolio-Denner-Landing-Page
+
+---
+
+⏱️ TIMELINE: 2 horas de design (MVP rápido)
+🎯 TARGET: Compartilhar link até final do Dia 2
+
+— Uma, desenhando com empatia 💝
