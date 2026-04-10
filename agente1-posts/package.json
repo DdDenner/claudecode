@@ -1,0 +1,13 @@
+{
+  "name": "agente1-posts",
+  "version": "1.0.0",
+  "description": "Gerador de conteúdo para redes sociais - Designer Gráfico BH",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}

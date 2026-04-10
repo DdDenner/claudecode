@@ -1,0 +1,72 @@
+⚡ MUDANÇA DE ESTRATÉGIA - MVP DE 2 SEMANAS ⚡
+
+Para: @sm (River) + @ux-design-expert (Uma) + @dev (Dex)
+
+---
+
+NOVO PLANO:
+❌ 4 semanas perfeitas
+✅ 2 semanas MVP + iterações
+
+---
+
+🌊 RIVER (Scrum Master):
+
+ANTES: 11 stories detalhadas (30 min)
+AGORA: Stories rápidas e diretas (15 min)
+
+O QUÊ FAZER:
+- Criar stories em 5 linhas cada
+- AC simples e claras
+- Foco: o essencial
+- Sem detalhes extras
+
+ARQUIVO: MVP-SPRINT.md seção "DIA 1-2"
+
+---
+
+🎨 UMA (UX Designer):
+
+ANTES: Design system completo (45 min)
+AGORA: Design mínimo mas bonito (20 min)
+
+O QUÊ FAZER:
+- Fazer 2-3 mockups key (home + mobile)
+- Paleta de cores (4-6 cores)
+- Tipografia (2 fonts)
+- Componentes base (button, card, input)
+- Sem variações excessivas
+
+ARQUIVO: MVP-SPRINT.md seção "DIA 1-2"
+
+---
+
+👨‍💻 DEX (Dev):
+
+ANTES: Esperava 2-3 semanas
+AGORA: MVP em 1 semana!
+
+O QUÊ FAZER (quando Uma terminar):
+- Dia 3-4: Header + Hero + Footer
+- Dia 5: Gallery grid
+- Dia 6: Contact form
+- Dia 7: Integration + Deploy
+- Dia 8+: Melhorias v1.1
+
+ARQUIVO: MVP-SPRINT.md seção "DIAS 3-7"
+
+---
+
+RESUMO:
+Timeline: 2 semanas
+Deploy: Dia 8 (semana que vem)
+Target: Live + Funcional
+
+COMANDO:
+River: *draft (rápido!)
+Uma: *wireframe medium (rápido!)
+Dex: aguarda Uma, depois *develop-mvp
+
+---
+
+STATUS: 🔥 SPRINT INICIADO

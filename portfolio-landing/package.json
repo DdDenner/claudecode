@@ -1,0 +1,61 @@
+{
+  "name": "denner-portfolio-landing",
+  "version": "1.0.0",
+  "description": "Landing page profissional para portfólio de design gráfico - Denner",
+  "homepage": "https://denner.design",
+  "author": {
+    "name": "Denner Gomes",
+    "email": "dennergomes6359@gmail.com",
+    "url": "https://denner.design"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,md}\"",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next-image-export-optimizer": "^1.19.0",
+    "framer-motion": "^10.16.0",
+    "clsx": "^2.0.0",
+    "zustand": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.3.0",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0",
+    "prettier": "^3.1.0",
+    "@typescript-eslint/eslint-plugin": "^6.13.0",
+    "@typescript-eslint/parser": "^6.13.0",
+    "eslint": "^8.54.0",
+    "eslint-config-next": "^14.0.0",
+    "jest": "^29.7.0",
+    "@testing-library/react": "^14.1.0",
+    "@testing-library/jest-dom": "^6.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": [
+    "portfolio",
+    "design",
+    "landing-page",
+    "next.js",
+    "react",
+    "tailwind"
+  ]
+}
