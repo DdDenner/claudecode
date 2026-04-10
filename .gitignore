@@ -46,3 +46,4 @@ out/
 .cache/
 tmp/
 temp/
+.claude/settings.local.json
